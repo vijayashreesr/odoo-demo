@@ -1,0 +1,2 @@
+# odoo-demo
+repository-odoo
